@@ -36,7 +36,7 @@
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
     "mapbox-gl": "^1.6.1",
-    "mocha": "^7.0.0",
+    "mocha": "^10.2.0",
     "moment": "^2.24.0",
     "mongoose": "^5.8.9",
     "node-open-geocoder": "^4.0.1",
