@@ -38,7 +38,7 @@
     "mapbox-gl": "^1.6.1",
     "mocha": "^7.0.0",
     "moment": "^2.24.0",
-    "mongoose": "^5.8.9",
+    "mongoose": "^5.13.15",
     "node-open-geocoder": "^4.0.1",
     "nodemon": "^1.18.7",
     "passport": "^0.4.1",
